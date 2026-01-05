@@ -1,0 +1,23 @@
+中文名称,英文名称,版本号,分类标签,描述
+JEI物品管理器,Just Enough Items,15.20.0.127,实用 / 支持库,显示物品和配方信息
+怪物增强,Improved mobs,1.20.1-1.13.6-forge,生物,提高怪物难度
+机械动力：矿石开掘,Create ore excavation,1.20.1-1.6.5,科技 / 世界元素,使用机器开采资源
+机械动力,Create,mc1.20.1-6.0.8,科技 / 实用 / 装饰,增强玩家能力的美学科技模组
+急救/医疗护理,First aid,1.20.1-1.1,冒险 / 游戏机制,新健康系统，改变游戏体验
+史诗攻城,Epic Siege,14.171,生物 / 天然结构 / 维度,高级怪物 AI，终极破坏与死亡
+铁氧体磁芯,FerriteCore,6.0.1,实用 / 性能优化,优化内存使用
+通用拼音搜索,Just enough characters,4.6.2,实用,支持中文拼音搜索
+犀牛,Rhino,2001.2.3-build.10+forge,实用 / 支持库,Mozilla Rhino 库的分支，用于模组开发
+现代化修复,ModernFix,5.25.2+mc1.20.1,实用 / 性能优化,全功能优化模组，提升性能、减少内存占用
+永恒枪械工坊：零,Timeless and Classics Zero,1.1.7-hotfix,冒险 / 装备,最沉浸式可自定义的现代 FPS 体验
+Architecture API,Architecture API,9.2.14+forge,支持库,用于简化多平台模组开发的中间层 API
+Embeddium,Embeddium,0.3.1+mc1.20.1,性能优化,面向 NeoForge 的高性能客户端优化模组
+In Control!,In Control!,1.20-9.4.5,生物 / 实用,控制怪物生成
+KubeJS Create,KubeJS Create,2001.3.0-build.8+forge,实用,KubeJS 对 Create 的集成支持
+KubeJS,KubeJS,2001.6.5-build.16+forge,实用 / 支持库,使用 JavaScript 编辑配方、添加物品、脚本事件
+Iris & Oculus Flywheel Compat,oculus-flywheel-compat,2.0.3,性能优化,启用 Flywheel 优化（配合着色器包）
+Oculus,Oculus,1.20.1-1.8.0,性能优化 / 装饰,Iris 的非官方 Fork，兼容 FML
+ProbeJS,ProbeJS,6.0.0,实用,强化模组包体验，提供调试工具
+Protect Mobs From Daylight,protect-mobs-from-daylight,1.0.1,生物,防止怪物在阳光下燃烧
+Create: Sentry Mechanical Arm,sentrymechanicalarm,0.3.0,自动化,让 Create 的机械臂可以使用 TaCZ 枪械
+TenshiLib,TenshiLib,1.20.1-1.7.6,实用 / 支持库,核心库模组，用于其他项目
