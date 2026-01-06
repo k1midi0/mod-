@@ -1,26 +1,26 @@
-# 📦 模组列表
-
-| 中文名称 | 英文名称 | 版本号 | 分类标签 | 描述 |
-|----------|----------|--------|----------|------|
-| JEI物品管理器 | Just Enough Items | 15.20.0.127 | 实用 / 支持库 | 显示物品和配方信息 |
-| 怪物增强 | Improved Mobs | 1.20.1-1.13.6-forge | 生物 | 提高怪物难度 |
-| 机械动力：矿石开掘 | Create Ore Excavation | 1.20.1-1.6.5 | 科技 / 世界元素 | 使用机器开采资源 |
-| 机械动力 | Create | mc1.20.1-6.0.8 | 科技 / 实用 / 装饰 | 增强玩家能力的美学科技模组 |
-| 急救/医疗护理 | First Aid | 1.20.1-1.1 | 冒险 / 游戏机制 | 新健康系统，改变游戏体验 |
-| 史诗攻城 | Epic Siege | 14.171 | 生物 / 天然结构 / 维度 | 高级怪物 AI，终极破坏与死亡 |
-| 铁氧体磁芯 | FerriteCore | 6.0.1 | 实用 / 性能优化 | 优化内存使用 |
-| 通用拼音搜索 | Just Enough Characters | 4.6.2 | 实用 | 支持中文拼音搜索 |
-| 犀牛 | Rhino | 2001.2.3-build.10+forge | 实用 / 支持库 | Mozilla Rhino 库的分支，用于模组开发 |
-| 现代化修复 | ModernFix | 5.25.2+mc1.20.1 | 实用 / 性能优化 | 全功能优化模组，提升性能、减少内存占用 |
-| 永恒枪械工坊：零 | Timeless and Classics Zero | 1.1.7-hotfix | 冒险 / 装备 | 最沉浸式可自定义的现代 FPS 体验 |
-| Architecture API | Architecture API | 9.2.14+forge | 支持库 | 用于简化多平台模组开发的中间层 API |
-| Embeddium | Embeddium | 0.3.1+mc1.20.1 | 性能优化 | 面向 NeoForge 的高性能客户端优化模组 |
-| In Control! | In Control! | 1.20-9.4.5 | 生物 / 实用 | 控制怪物生成 |
-| KubeJS Create | KubeJS Create | 2001.3.0-build.8+forge | 实用 | KubeJS 对 Create 的集成支持 |
-| KubeJS | KubeJS | 2001.6.5-build.16+forge | 实用 / 支持库 | 使用 JavaScript 编辑配方、添加物品、脚本事件 |
-| Iris & Oculus Flywheel Compat | oculus-flywheel-compat | 2.0.3 | 性能优化 | 启用 Flywheel 优化（配合着色器包） |
-| Oculus | Oculus | 1.20.1-1.8.0 | 性能优化 / 装饰 | Iris 的非官方 Fork，兼容 FML |
-| ProbeJS | ProbeJS | 6.0.0 | 实用 | 强化模组包体验，提供调试工具 |
-| Protect Mobs From Daylight | protect-mobs-from-daylight | 1.0.1 | 生物 | 防止怪物在阳光下燃烧 |
-| Create: Sentry Mechanical Arm | sentrymechanicalarm | 0.3.0 | 自动化 | 让 Create 的机械臂可以使用 TaCZ 枪械 |
-| TenshiLib | TenshiLib | 1.20.1-1.7.6 | 实用 / 支持库 | 核心库模组，用于其他项目 |
+| 名称 | ID | 版本 | 类型 | 描述 |
+|------|----|-------|------|------|
+| JEI物品管理器 | jei | 15.20.0.127 | 实用 | 查看物品和配方 |
+| 怪物增强 | improvedmobs | 1.20.1-1.13.6-forge | 生物 | 更难的怪物，支持自定义行为 |
+| 机械动力：电气时代 | create-new-age | 1.1.7e+mc1.20.1 | 科技 | 为 Create 添加电力与自动化支持 |
+| 机械动力：矿石开掘 | createoreexcavation | 1.20.1-1.6.5 | 科技 | 使用钻头和机械臂自动挖掘矿石 |
+| 机械动力 | create | 1.20.1-6.0.8 | 科技/实用/装饰 | 美学与工程结合的科技模组 |
+| 急救/医疗护理 | firstaid | 1.20.1-1.1 | 冒险 | 引入身体部位受伤系统，更真实的生存体验 |
+| 铁氧体磁芯 | ferritecore | 6.0.1 | 实用 | 减少内存占用，提升性能 |
+| 通用拼音搜索 | jecharacters | 4.6.2 | 实用 | 在 JEI 中支持中文拼音搜索 |
+| 犀牛 | rhino | 2001.2.3-build.10+forge | 实用 | 提供 JavaScript 引擎，供 KubeJS 等使用 |
+| 现代化修复 | modernfix | 5.25.2+mc1.20.1 | 实用 | 优化游戏启动、加载和运行性能 |
+| 永恒枪械工坊：零 | tacz | 1.20.1-1.1.7-hotfix | 冒险/装备 | 高度拟真的枪械系统重制版 |
+| Architecture API | architecture | 9.2.14+forge | 支持库 | 跨平台建筑结构开发中间件 |
+| Botarium | botarium | 2.3.4 | 支持库 | 提供统一的跨模组交互 API |
+| Embeddium | embeddium | 0.3.31+mc1.20.1 | 性能优化 | 开源 Sodium 替代，提升帧率 |
+| Hold My Items - Reforged | holdmyitems | 2.0 | 游戏机制/装饰 | 让玩家手持物品时显示在手中 |
+| In Control! | incontrol | 1.20-9.4.5 | 生物/实用 | 精细控制生物生成条件与行为 |
+| KubeJS Create | kubejs-create | 2001.3.0-build.8+forge | 实用 | 为 KubeJS 添加对 Create 模组的支持 |
+| KubeJS | kubejs | 2001.6.5-build.16+forge | 实用 | 使用 JavaScript 自定义配方、事件、物品等 |
+| Iris & Oculus Flywheel Compat | oculus-flywheel-compat | 2.0.3 | 性能优化 | 启用 Flywheel 渲染优化（配合 Oculus） |
+| Oculus | oculus | 1.20.1-1.8.0 | 性能优化/装饰 | Iris 的社区维护分支，支持 Shaders |
+| ProbeJS | probejs | 6.0.0 | 实用 | 动态生成文档，辅助 KubeJS 脚本开发 |
+| Protect Mobs From Daylight | protect-mobs-from-daylight | 1.0.1 | 生物 | 防止敌对生物在白天被阳光烧死 |
+| Create: Sentry Mechanical Arm | sentrymechanicalarm | 0.3.0 | 自动化 | 让机械臂可装备并使用 TACZ 枪械 |
+| TenshiLib | tenshilib | 1.20.1-1.7.6 | 实用 | 多个模组依赖的核心库 |
