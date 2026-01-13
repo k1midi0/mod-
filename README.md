@@ -26,5 +26,5 @@
 | Oculus | oculus | 1.20.1-1.8.0 | 性能优化 / 装饰 | Unofficial Fork of "Iris", made to work with FML |
 | ProbeJS | probejs | 6.0.0 | 实用 | Supercharging your modpack experience |
 | Protect Mobs From Daylight | protect-mobs-from-daylight | 1.0.1 | 生物 | No more burning for mobs under the sun |
-| Create: Sentry Mechanical Arm | sentrymechanicalarm | 0.3.0 | 自动化 | Enables Create's Mechanical Arm to wield TaCZ firearms |
+| Create: Sentry Mechanical Arm | sentrymechanicalarm | 请使用此页面提供的版本 | 自动化 | Enables Create's Mechanical Arm to wield TaCZ firearms |
 | TenshiLib | tenshilib | 1.20.1-1.7.6 | 实用 / 支持库 | Core and Library mod for my other projects |
